@@ -1,2 +1,2 @@
 # Frontend_lessons
-HTML, CSS va Javascriot
+HTML, CSS va Javascript
